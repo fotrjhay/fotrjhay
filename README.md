@@ -1,4 +1,4 @@
-![AI & ML Engineer — Jayeola]
+## Jayeola
 
 ## What I do
 
