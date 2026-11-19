@@ -1,4 +1,4 @@
-# Fotr Jhay
+# Jayeola
 
 I fine-tune AI models, build RAG systems, and develop context-aware software.
 
@@ -22,4 +22,4 @@ Browse my pinned repositories for implementation details and demos.
 
 ## Connect
 
-[GitHub](https://github.com/fotrjhay) · [LinkedIn](REPLACE_WITH_LINKEDIN_URL) · [Email](mailto:fotrjhay@gmail.com)
+ [LinkedIn](REPLACE_WITH_LINKEDIN_URL) · [Email](mailto:fotrjhay@gmail.com)
