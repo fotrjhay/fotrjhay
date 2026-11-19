@@ -1,7 +1,7 @@
 ## Jayeola
 
 **Mathematician & Software Engineer**  
-**
+
 *B.Tech & MSc*
 
 ## What I do
